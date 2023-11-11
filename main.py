@@ -2,7 +2,7 @@ from random import random, randint
 import telebot
 from telebot import types
 import sqlite3
-bot = telebot.TeleBot('6729751846:AAGn2SM2FxoRlhXDQh0FQWuDgFYhJD59b_k')
+bot = telebot.TeleBot('PLACE YOUR TOKEN')
 
 markup2 = types.ReplyKeyboardMarkup()
 btn3 = types.KeyboardButton('Login')
